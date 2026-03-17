@@ -1,4 +1,4 @@
-# EX ! (A) Conditional Statements in Python: Even or Odd Checker
+# EX 1 (A) Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
@@ -13,11 +13,8 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 
-a=int(input()) 
-if a%2==0 
-    print("EVEN") 
-else: 
-    print("ODD") 
+<img width="809" height="240" alt="image" src="https://github.com/user-attachments/assets/8594ea75-efbb-487f-afb5-f6cd57f66899" />
+
 
 ## Output
 
